@@ -22,6 +22,7 @@ Goal: Build a live chat app
 
 Deliverable: Fully functional app with frontend and backend integrated
 
+
 🔧 Tech Stack (Recommended)
 
 Backend: Node.js with Express and Socket.IO
