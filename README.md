@@ -15,6 +15,7 @@ A simple real-time chat application built with Node.js, Express, and Socket.IO.
 ## How to Run
 
 ✅ Task Requirements (from the image):
+
 Use: WebSocket or Socket.IO
 
 Goal: Build a live chat app
@@ -22,6 +23,7 @@ Goal: Build a live chat app
 Deliverable: Fully functional app with frontend and backend integrated
 
 🔧 Tech Stack (Recommended)
+
 Backend: Node.js with Express and Socket.IO
 
 Frontend: HTML, CSS, and Socket.IO client
@@ -35,8 +37,11 @@ chat-app/
 1.CREATE YOURPROJECT FOLDER
 
 mkdir chat-app
+
 cd chat-app
+
 npm init -y
+
 npm install express socket.io
 
 2.CREATE SERVER FILE 
