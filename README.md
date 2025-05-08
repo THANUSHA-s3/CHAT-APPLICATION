@@ -56,5 +56,5 @@ you get Open your browser and go to http://localhost:3000. Try opening two tabs 
 
 
 OUTPUT:
-![Real-Time Chat and 1 more page - Personal - Microsoft​ Edge 08-05-2025 11_14_27](https://github.com/user-attachments/assets/28b7241e-b588-4e3b-b03c-976301ed294e)
+![Real-Time Chat - Personal - Microsoft​ Edge 08-05-2025 14_32_31](https://github.com/user-attachments/assets/fa43f761-5dd5-4e77-a355-7b76720847a8)
 
