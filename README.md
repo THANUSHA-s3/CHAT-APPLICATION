@@ -52,6 +52,9 @@ npm install express socket.io
 4. RUN YOUR APP :
 node server.js
 
+you get Open your browser and go to http://localhost:3000. Try opening two tabs to chat between them.
+
+
 OUTPUT:
 ![Real-Time Chat and 1 more page - Personal - Microsoft​ Edge 08-05-2025 11_14_27](https://github.com/user-attachments/assets/28b7241e-b588-4e3b-b03c-976301ed294e)
 
