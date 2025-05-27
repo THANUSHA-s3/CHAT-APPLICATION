@@ -1,5 +1,7 @@
 # CHAT-APPLICATION
 
+CODTECH Task 2: Chat Application
+
 NAME : S THANUSHA
 
 DOMAIN : Full Stack Web Development
